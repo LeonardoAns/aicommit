@@ -60,6 +60,6 @@ java -jar "C:\Users\SEU_USER\CAMINHO_DO_PROJETO\ai_commit\target\ai_commit-1.0-S
     </section>
     <div style="background-color: #e7f5fe; padding: 10px; border-left: 4px solid #3498db; margin: 15px 0;">
         <p><strong>Observação:</strong> Lembre-se de substituir todas as ocorrências de "SEU_USER" pelo seu nome de usuário real do Windows e ajustar os caminhos conforme necessário.</p>
-    </div>
+        <p><strong>Observação:</strong> Ajuste o número de tokens conforme necessário para mensagens mais completas.</p>    </div>
 </body>
 </html>
